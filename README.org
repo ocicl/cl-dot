@@ -4,6 +4,6 @@ Common Lisp package for generating GraphViz (dot) files
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/michaelw/cl-dot.git |
-| commit  | 215d240                                    |
+| commit  | 8a53123                                    |
 | systems | cl-dot                                     |
 |---------+--------------------------------------------|
